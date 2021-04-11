@@ -3,6 +3,7 @@ train_model/Labeled_Frames/pull/*.jpg
 train_model/Labeled_Frames/wait/*.jpg
 
 train_model/Model/*
+!train_model/Model/.gitkeep
 
 train_model/Unlabeled_Frames/cast/*.jpg
 train_model/Unlabeled_Frames/pull/*.jpg
