@@ -5,6 +5,7 @@ Requirement for bot:
 Trained bot should be able to automate fishing in Minecraft. Fishing includes three actions: casting line, waiting and pulling line. This can be solved as image classification problem.
 
 ![](doc_pics/actions.jpg)
+
 (cast, wait and pull)
 
 <br>
@@ -39,6 +40,7 @@ Plan was to replace picture color channels with multiple grayscale pictures.
 Demonstration:
 
 ![](doc_pics/color_channels.jpg) ![](doc_pics/grayscale_as_color_channels.jpg)
+
 (color picture and separated color channels || "color" picture with grayscale pictures as color channels)
 
 For me this is inspired by Deep Minds Atari DQN.
