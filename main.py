@@ -61,7 +61,7 @@ def fishing_with_stacked_model():
 
     # mss is fast
     sct = mss.mss()
-    # set correct monitor location !
+    # set correct monitor location!
     monitor = {"top": 550, "left": 430, "width": 200, "height": 450}
 
     mouse = MouseController()
@@ -133,7 +133,7 @@ def main():
 
     # mss is fast
     sct = mss.mss()
-    # set correct monitor location !
+    # set correct monitor location!
     monitor = {"top": 550, "left": 430, "width": 200, "height": 450}
 
     mouse = MouseController()
