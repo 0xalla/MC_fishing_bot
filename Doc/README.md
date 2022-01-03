@@ -21,6 +21,7 @@ Model was trained using `train_model/train_classifier.py` which is copy from Ten
 Trained model can be used to catch fish with `main.py`.
 
 <br>
+
 ![](doc_pics/example_from_game.jpg)
 
 At first I was not including any pictures at night so it did not work on all light conditions. But model did work really well on daylight.
